@@ -1,4 +1,5 @@
-![MasterHead](https://observer-media.go-vip.net/wp-content/uploads/sites/2/2015/02/cybermap.gif)
+![MasterHead](https://media.licdn.com/dms/image/D5612AQHt2TGC_ets2g/article-cover_image-shrink_600_2000/0/1699831249540?e=2147483647&v=beta&t=--XlPJVsm6KxTXZHXnKVhgN8f5JTjZfm1a0U5uK5JcM)
+
 <h1 align="center">Hi 🙋‍♀️, I'm Tandra Pramanik</h1>
 <h3 align="center">Currently on a journey as a Computer Science & Engineering student.</h3>
 
