@@ -1,3 +1,5 @@
+![MasterHead](https://media.tenor.com/images/7563686de50540d0e907bcc10be338e8/tenor.gif) ![MasterHead](https://img1.picmix.com/output/stamp/normal/5/0/2/4/2024205_60b0c.gif)
+
 ![MasterHead](https://media.licdn.com/dms/image/D5612AQHt2TGC_ets2g/article-cover_image-shrink_600_2000/0/1699831249540?e=2147483647&v=beta&t=--XlPJVsm6KxTXZHXnKVhgN8f5JTjZfm1a0U5uK5JcM)
 
 <h1 align="center">Hi 🙋‍♀️, I'm Tandra Pramanik</h1>
