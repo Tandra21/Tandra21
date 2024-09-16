@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tandra21&show_icons=true&locale=en" alt="tandra21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tandra21&" alt="tandra21" /></p>
+
+![snake gif](https://github.com/Tandra21/Tandra21/blob/output/github-contribution-grid-snake.gif)
